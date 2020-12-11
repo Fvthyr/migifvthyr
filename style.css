@@ -125,8 +125,8 @@ body {
 	text-decoration: none;
 }
 
-.content p{
-	margin-bottom: 20px;
+.content p {
+	margin-bottom: 30px;
 	font-size: 14px;
 }
 
@@ -134,14 +134,17 @@ pre {
 	font-size: 125%;
 }
 
-.content .kanji {
-	width: 500px;
+.kanji {
+	float: left;
 }
 
-.content .romaji {
-	width: 500px;
-	margin-top: -1741px;
-	margin-left: 500px;
+.romaji {
+	display: inline-block;
+	padding-left: 10%;
+}
+
+.clear {
+	clear: left;
 }
 
 .footer {
