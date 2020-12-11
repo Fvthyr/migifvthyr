@@ -91,7 +91,7 @@ body {
 }
 
 .hero {
-	height: 300px;
+	height: 480px;
 	background-image: url(img/paint.png);
 	background-size: cover;
 	background-position: 0 -70px;
