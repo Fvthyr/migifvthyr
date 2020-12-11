@@ -130,6 +130,10 @@ body {
 	font-size: 14px;
 }
 
+pre {
+	font-size: 125%;
+}
+
 .content .kanji {
 	width: 500px;
 }
