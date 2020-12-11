@@ -58,7 +58,7 @@ body {
 }
 
 .container {
-	width: 800px;
+	width: 1000px;
 	margin: auto;
 	background-color: white;
 }
@@ -128,6 +128,16 @@ body {
 .content p{
 	margin-bottom: 20px;
 	font-size: 14px;
+}
+
+.content .kanji {
+	width: 500px;
+}
+
+.content .romaji {
+	width: 500px;
+	margin-top: -1741px;
+	margin-left: 500px;
 }
 
 .footer {
